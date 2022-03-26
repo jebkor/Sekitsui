@@ -10,24 +10,35 @@
 
 *Give the project a brief description*
 
+
 ## Features
 
 - 📦 List of features
 - ⚛
 - 🔌
 
+
 ## Quick Overview
 Before we get started, ensure that you have installed Node.js (>=16) and Yarn (or npm) on your machine.
+
 
 ### Get Started
 *Explain how to get the project up and running
 
+
 ## Documentation
 *Are there any documentation? In that case, list it here*
 
-## Pull Requests
 
+## Contributing
 I'm always looking for new ideas, so if you have an idea you want me to look at to possibly add to the bot, you're more than welcome to make a pull request with your feature!
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b feature/my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin feature/my-new-feature`
+5. Submit a pull request 🎉
+
 
 ## Community
 
@@ -36,9 +47,10 @@ All feedback and suggestions are welcome!
 - 💬 Create an issue or feature request on this repository.
 - 📣 Send me a message on [Twitter](https://twitter.com/jebkor_) with questions or suggestions
 
+
 ## Credits
 *List the credits*
 
-## License
 
+## License
 MIT &copy; [jebkor](https://jebkor.dk)
